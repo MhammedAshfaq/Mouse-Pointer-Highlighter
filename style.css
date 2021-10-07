@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text{
+    background-color:whitesmoke;
+    letter-spacing: 0.4px;
+    line-height: 20px;
+}
+
+.mouse_hightliter_extention{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 9;
+    mix-blend-mode: darken;  /*Tats curcle changer in parent class    /  ith aaa curcle ntr ollile condent ne nalla visible akunnu*/
+}
+ .mouse_pointer_extention{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
