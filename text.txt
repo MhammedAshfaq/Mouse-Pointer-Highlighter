@@ -1,0 +1,7 @@
+Use This Commands
+
+
+1. Remove Pointer :(shift + c);
+2. Enable Pointer : (shift + o);
+3. Decrease Pointer :(shift + -);
+4. Increase Pointer :(shift + =);
